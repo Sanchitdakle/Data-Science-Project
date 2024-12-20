@@ -181,6 +181,6 @@ else:
 with st.sidebar:
     footer_html = """<div style='text-align: left;'>
     <p style="margin-bottom:2cm;"> </p>
-    <p style="color:black";> <b> Designed and Developed by </b> </br> <i> Mohammed Noman </i> </p>
+    <p style="color:black";> <b> Designed and Developed by </b> </br> <i> Sanchit Dakle </i> </p>
     </div>"""
     st.markdown(footer_html, unsafe_allow_html=True)
